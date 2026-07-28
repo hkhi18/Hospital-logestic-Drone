@@ -1,0 +1,17 @@
+# Goal
+string mission_name
+float32 target_latitude
+float32 target_longitude
+float32 target_altitude
+---
+# Result
+bool success
+string message
+float32 final_latitude
+float32 final_longitude
+---
+# Feedback
+int32 current_waypoint
+int32 total_waypoints
+float32 distance_remaining
+string status

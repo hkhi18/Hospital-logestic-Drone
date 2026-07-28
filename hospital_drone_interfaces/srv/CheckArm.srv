@@ -1,0 +1,8 @@
+# Request
+bool request_arm
+---
+# Response
+bool success
+float32 battery_level
+bool gps_ok
+string message
