@@ -219,7 +219,8 @@ std_srvs.srv.Trigger_Response(success=True, message='Mission Started!')
 ## 🌐 Dashboard
 
 Live flight operations dashboard available at:
-https://github.com/hkhi18/Hospital-logestic-Drone/blob/main/Dashboard.jpg``
+![Dashboard](Dashboard.jpg)
+
 file:///home/hanin/hospital_drone_ws/dashboard/index.html
 ```
 
